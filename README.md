@@ -378,6 +378,6 @@ graph LR
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27,28,29&height=100&section=footer&animation=twinkling" width="100%"/>
   
-  ⭐️ **From [ghufran496](https://github.com/ialihaideryahya) with** <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="20" alt="Heart"/>
+  ⭐️ **From [ialihaideryahya](https://github.com/ialihaideryahya) with** <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="20" alt="Heart"/>
   
 </div>
