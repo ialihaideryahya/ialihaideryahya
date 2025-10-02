@@ -2,7 +2,7 @@
 
 <!-- Animated Wave Header with Enhanced Typography -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27,28,29&height=300&section=header&text=GHUFRAN%20ULLAH&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=33&desc=🚀%20Full%20Stack%20Developer%20|%20☁️%20Cloud%20Architect%20|%20⚡%20DevOps%20Engineer&descAlignY=51&descSize=25&animation=twinkling&fontFamily=Orbitron" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,26,27,28,29&height=300&section=header&text=ALI%20HAIDER&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=33&desc=🚀%20Full%20Stack%20Developer%20|%20☁️%20Cloud%20Architect%20|%20⚡%20DevOps%20Engineer&descAlignY=51&descSize=25&animation=twinkling&fontFamily=Orbitron" />
 </div>
 
 <!-- Animated Title with Rainbow Effect and Custom Font -->
