@@ -28,9 +28,9 @@
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=ghufran496&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ghufran496?style=for-the-badge&color=blueviolet&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/ghufran496?style=for-the-badge&color=blueviolet&label=STARS" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Ali496&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Ali496?style=for-the-badge&color=blueviolet&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Ali496?style=for-the-badge&color=blueviolet&label=STARS" alt="Stars"/>
 </div>
 
 <!-- Animated Divider -->
@@ -168,7 +168,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghufran496&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ali496&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🎯 Impact Metrics
 
@@ -257,18 +257,18 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ghufran496&show_icons=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117" alt="Ghufran's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghufran496&layout=compact&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ali496&show_icons=true&count_private=true&hide_border=true&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9&bg_color=0d1117" alt="Ali's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali496&layout=compact&hide_border=true&title_color=ff6b6b&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghufran496&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=4ecdc4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=496&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=ff6b6b&fire=ff6b6b&currStreakLabel=4ecdc4" alt="GitHub Streak" />
 </div>
 
 <!-- Contribution Graph with Animation -->
 <div align="center">
   <h2 style="font-family: 'Bebas Neue', cursive; font-size: 2em;">🔥 Contribution Heatmap</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghufran496&custom_title=Ghufran's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true&area_color=ff6b6b" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali496&custom_title=Ali's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true&area_color=ff6b6b" alt="Contribution Graph" />
 </div>
 
 <!-- Snake animation -->
